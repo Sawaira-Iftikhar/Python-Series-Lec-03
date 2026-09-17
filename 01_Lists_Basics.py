@@ -52,3 +52,5 @@ fruits = ["apple", "banana", "cherry", "date", "strawberry"]
 
 # a) First fruit
 print("First:", fruits[0])
+
+print("Last (positive):", fruits[4])
