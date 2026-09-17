@@ -18,12 +18,14 @@
 #     d) An empty list
 #     e) A nested list (list inside a list)
 
-# List of 5 integer
+# 1.  List of 5 integer
 num = [10 , 20, 30, 40, 50]
 print(num, type(num))
 
-# List of 3 string
+# 2.  List of 3 string
 languages = ["Python", "C++", "Java"]
 print(languages, type(languages))
 
-# list of mixed data type list
+# 3. list of mixed data type list
+mixed_list = [25, 3.14, "Python", True]
+print(mixed_list, type(mixed_list))
