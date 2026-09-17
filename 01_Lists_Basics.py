@@ -53,8 +53,10 @@ fruits = ["apple", "banana", "cherry", "date", "strawberry"]
 # a) First fruit
 print("First:", fruits[0])
 
-print("Last (positive):", fruits[4])
+print("Last (positive): ", fruits[4])
 
-print("Last (negative):", fruits[-1])
+print("Last (negative): ", fruits[-1])
 
 print("MIddle: ", fruits[2])
+
+print("Length: ",len(fruits))
