@@ -51,3 +51,4 @@ print(nested_list, type(nested_list))
 fruits = ["apple", "banana", "cherry", "date", "strawberry"]
 
 # a) First fruit
+print("First:", fruits[0])
