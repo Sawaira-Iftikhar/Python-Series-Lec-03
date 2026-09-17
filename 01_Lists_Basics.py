@@ -47,3 +47,7 @@ print(nested_list, type(nested_list))
 #     c) Print the last fruit using negative index
 #     d) Print the middle fruit
 #     e) What is the length of this list?
+
+fruits = ["apple", "banana", "cherry", "date", "strawberry"]
+
+# a) First fruit
