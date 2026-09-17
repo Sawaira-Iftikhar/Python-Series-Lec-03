@@ -39,3 +39,11 @@ nested_list = [[1, 2, 3], ["Python", "C++"]]
 print(nested_list, type(nested_list))
 
 #----------------------------------------------------------------------------------------------------
+
+# Q2. ACCESSING ELEMENTS:
+#     Given: fruits = ["apple", "banana", "cherry", "date", "elderberry"]
+#     a) Print the first fruit
+#     b) Print the last fruit using positive index
+#     c) Print the last fruit using negative index
+#     d) Print the middle fruit
+#     e) What is the length of this list?
