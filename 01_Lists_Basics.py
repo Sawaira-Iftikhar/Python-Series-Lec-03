@@ -34,3 +34,6 @@ print(mixed_list, type(mixed_list))
 empty_list = []
 print(empty_list, type(empty_list))
 
+# 5.  Nested list
+nested_list = [[1, 2, 3], ["Python", "C++"]]
+print(nested_list, type(nested_list))
