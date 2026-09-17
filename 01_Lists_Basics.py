@@ -29,3 +29,8 @@ print(languages, type(languages))
 # 3. list of mixed data type list
 mixed_list = [25, 3.14, "Python", True]
 print(mixed_list, type(mixed_list))
+
+# 4.  Empty list
+empty_list = []
+print(empty_list, type(empty_list))
+
