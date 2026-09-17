@@ -66,3 +66,9 @@ print("MIddle: ", fruits[2])
 print("Length: ",len(fruits))
 
 #--------------------------------------------------------------------------------------------------
+
+# Q3. MUTABILITY — Lists can be changed:
+#     Given: colors = ["red", "green", "blue"]
+#     a) Change "green" to "yellow" using index
+#     b) Change the last color to "purple"
+#     c) Print the modified list
