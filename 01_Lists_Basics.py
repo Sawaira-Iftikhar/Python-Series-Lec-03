@@ -53,10 +53,14 @@ fruits = ["apple", "banana", "cherry", "date", "strawberry"]
 # a) First fruit
 print("First:", fruits[0])
 
+# b) last fruit with positive index
 print("Last (positive): ", fruits[4])
 
+# c) Last fruit with negative index
 print("Last (negative): ", fruits[-1])
 
+# d) Middle fruit
 print("MIddle: ", fruits[2])
 
+# e) Length of the list
 print("Length: ",len(fruits))
