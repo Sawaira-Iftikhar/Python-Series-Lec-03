@@ -56,3 +56,5 @@ print("First:", fruits[0])
 print("Last (positive):", fruits[4])
 
 print("Last (negative):", fruits[-1])
+
+print("MIddle: ", fruits[2])
