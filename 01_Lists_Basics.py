@@ -79,3 +79,16 @@ print("Original list of colors: ",colors)
 # Change "green" to "yellow"
 colors[1] = "yellow"
 print("After changing the 1 index: ",colors)
+
+#Change the last color to purple
+colors[len(colors) - 1] = "purple"
+
+#  colors[len(colors)] = "purple"   this method is wrong 
+
+#Other two methods
+""" 
+colors[-1] = 'purlpe'
+colors[2] = 'purple'
+
+"""
+print("After the last color change: ",colors)
