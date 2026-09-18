@@ -190,4 +190,7 @@ alpha = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']
 # 1.  Last 3 elements
 print("Last 3: ",alpha[-3:1])
 
+# 2.  Everything except the last 2 ellemets
+print("Expect last 2: ",alpha[:-2])
+
 
