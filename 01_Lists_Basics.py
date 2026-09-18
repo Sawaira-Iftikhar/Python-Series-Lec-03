@@ -128,3 +128,12 @@ can't multiply with other data type value "float" data type must have to be same
 #  PART B: LIST SLICING — POSITIVE
 # ==========================================
 
+# Q5. BASIC SLICING [start:stop]:
+#     Given: nums = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+#     Extract and print:
+#     a) First 3 elements
+#     b) Elements from index 3 to 7
+#     c) Last 4 elements (using positive indices)
+#     d) Everything from index 5 to the end
+#     e) The entire list using slicing
+
