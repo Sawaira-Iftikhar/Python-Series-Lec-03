@@ -148,4 +148,6 @@ print("3 to 7 elements: ",nums[3:7])
 # 3. last 4 elements using positive indices
 print("Last  elements: ",nums[6:10])
 
+# 4. Everything from index 5 to the end 
+print("5 to end", num[5:10])
 
