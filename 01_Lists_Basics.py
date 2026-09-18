@@ -142,4 +142,7 @@ nums = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 # 1. First 3 elements
 print("First 3 elements: ", num[0:3])
 
+# 2. Elements formm index 3 to 7
+print("3 to 7 elements: ",nums[3:7])
+
 
