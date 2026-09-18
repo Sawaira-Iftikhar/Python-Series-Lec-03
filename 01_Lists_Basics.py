@@ -72,3 +72,10 @@ print("Length: ",len(fruits))
 #     a) Change "green" to "yellow" using index
 #     b) Change the last color to "purple"
 #     c) Print the modified list
+
+colors = ["red", "green", "blue"]
+print("Original list of colors: ",colors)
+
+# Change "green" to "yellow"
+colors[1] = "yellow"
+print("After changing the 1 index: ",colors)
