@@ -193,4 +193,7 @@ print("Last 3: ",alpha[-3:1])
 # 2.  Everything except the last 2 ellemets
 print("Expect last 2: ",alpha[:-2])
 
+# 3.  Elements form index -6 to -2
+print("-6 to -2: ",alpha[-6:-2])
+
 
