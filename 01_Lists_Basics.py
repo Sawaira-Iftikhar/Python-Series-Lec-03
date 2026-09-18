@@ -168,4 +168,7 @@ data = [10, 'b', 3.14, True, 'e', 50]
 data[0:3] = ['x', 'y', 'z']
 print("After Replacement: ",data)
 
+# 2. Delete the last 2 elements
+data[4:6] = []
+print("After Delete: ",data)
 
