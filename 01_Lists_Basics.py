@@ -178,3 +178,11 @@ print("After Delete: ",data)
 #  PART C: LIST SLICING — NEGATIVE 
 # ==========================================
 
+# Q7. NEGATIVE INDEX SLICING:
+#     Given: alpha = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']
+#     a) Last 3 elements using negative slicing
+#     b) Everything except the last 2 elements
+#     c) Elements from index -6 to -2
+#     d) The middle 4 elements using negative indices
+
+
