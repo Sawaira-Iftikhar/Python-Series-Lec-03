@@ -97,10 +97,9 @@ print("After the last color change: ",colors)
 
 # Q4. LIST OPERATIONS:
 #     a) Concatenate two lists: [1, 2, 3] + [4, 5, 6]
-#     b) Repeat a list: ["Ha"] * 4
-#     c) Check membership: Is "Python" in ["Java", "C++", "Python"]?
-#     d) Check non-membership: Is "Ruby" NOT in the same list?
-#     e) What happens if you try [1, 2] * 2.5? Write the error.
+#     b) Check membership: Is "Python" in ["Java", "C++", "Python"]?
+#     c) Check non-membership: Is "Ruby" NOT in the same list?
+#     d) What happens if you try [1, 2] * 2.5? Write the error.
 
 list1 = [1, 2, 3]
 list2 = [4, 5, 6]
@@ -108,6 +107,8 @@ list2 = [4, 5, 6]
 # 1.  Concatenate two lists
 concatenate = list1 + list2
 print("concatenation of 2 lists: ", concatenate)
+
+
 
 #-------------------------------------------------------------------------------------------
 
