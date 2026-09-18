@@ -145,4 +145,7 @@ print("First 3 elements: ", num[0:3])
 # 2. Elements formm index 3 to 7
 print("3 to 7 elements: ",nums[3:7])
 
+# 3. last 4 elements using positive indices
+print("Last  elements: ",nums[6:10])
+
 
