@@ -156,10 +156,12 @@ print("Full: ", nums[ :10])
 
 #-------------------------------------------------------------------------------------------
 
-# Q7. MODIFYING WITH SLICING:
-#     Given: letters = ['a', 'b', 'c', 'd', 'e', 'f']
+# Q6. MODIFYING WITH SLICING:
+#     Given: data = [10, 'b', 3.14, True, 'e', 50]
 #     a) Replace the first 3 elements with ['x', 'y', 'z']
 #     b) Delete the last 2 elements using slicing (assign empty list)
 #     c) Print the final list
+
+
 
 
