@@ -185,4 +185,9 @@ print("After Delete: ",data)
 #     c) Elements from index -6 to -2
 #     d) The middle 4 elements using negative indices
 
+alpha = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']
+
+# 1.  Last 3 elements
+print("Last 3: ",alpha[-3:1])
+
 
