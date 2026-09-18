@@ -137,3 +137,9 @@ can't multiply with other data type value "float" data type must have to be same
 #     d) Everything from index 5 to the end
 #     e) The entire list using slicing
 
+nums = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+
+# 1. First 3 elements
+print("First 3 elements: ", num[0:3])
+
+
