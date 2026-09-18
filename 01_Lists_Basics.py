@@ -108,6 +108,10 @@ list2 = [4, 5, 6]
 concatenate = list1 + list2
 print("concatenation of 2 lists: ", concatenate)
 
+# 2.  Checking membership
+lan_list = ["Java" , "C++", "Python"]
+print("is 'Python' available in lan_list: ","Python" in lan_list)
+
 
 
 #-------------------------------------------------------------------------------------------
