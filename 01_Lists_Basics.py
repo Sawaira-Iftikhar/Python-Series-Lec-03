@@ -115,7 +115,13 @@ print("Is 'Python' available in lan_list: ","Python" in lan_list)
 # 3.  Checking non-membership
 print("Is 'Ruby' not avaiable in lan_list:", "Ruby" not in lan_list)
 
+# 4.  Repeating a list with a float
+"""
+[1, 2] * 2.5
 
+can't multiply with other data type value "float" data type must have to be same
+
+"""
 #-------------------------------------------------------------------------------------------
 
 
