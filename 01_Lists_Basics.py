@@ -149,5 +149,7 @@ print("3 to 7 elements: ",nums[3:7])
 print("Last  elements: ",nums[6:10])
 
 # 4. Everything from index 5 to the end 
-print("5 to end", num[5:10])
+print("5 to end", nums[5:10])
 
+# 5. Entire list using slicing
+print("Full: ", nums[ :10])
