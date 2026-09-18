@@ -162,6 +162,10 @@ print("Full: ", nums[ :10])
 #     b) Delete the last 2 elements using slicing (assign empty list)
 #     c) Print the final list
 
+data = [10, 'b', 3.14, True, 'e', 50]
 
+# 1. Replace the first 3 elements
+data[0:3] = ['x', 'y', 'z']
+print("After Replacement: ",data)
 
 
