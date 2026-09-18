@@ -110,8 +110,10 @@ print("concatenation of 2 lists: ", concatenate)
 
 # 2.  Checking membership
 lan_list = ["Java" , "C++", "Python"]
-print("is 'Python' available in lan_list: ","Python" in lan_list)
+print("Is 'Python' available in lan_list: ","Python" in lan_list)
 
+# 3.  Checking non-membership
+print("Is 'Ruby' not avaiable in lan_list:", "Ruby" not in lan_list)
 
 
 #-------------------------------------------------------------------------------------------
