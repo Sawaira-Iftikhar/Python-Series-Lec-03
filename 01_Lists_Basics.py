@@ -101,3 +101,10 @@ print("After the last color change: ",colors)
 #     c) Check membership: Is "Python" in ["Java", "C++", "Python"]?
 #     d) Check non-membership: Is "Ruby" NOT in the same list?
 #     e) What happens if you try [1, 2] * 2.5? Write the error.
+
+list1 = [1, 2, 3]
+list2 = [4, 5, 6]
+
+# 1.  Concatenate two lists
+concatenate = list1 + list2
+print("concatenation of 2 lists: ", concatenate)
