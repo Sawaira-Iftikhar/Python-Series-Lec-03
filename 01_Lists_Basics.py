@@ -196,4 +196,5 @@ print("Expect last 2: ",alpha[:-2])
 # 3.  Elements form index -6 to -2
 print("-6 to -2: ",alpha[-6:-2])
 
-
+# 4.  Middle 4 elements using negative indices
+print("Middle 4: ",alpha[-6:-2])
