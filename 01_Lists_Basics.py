@@ -108,3 +108,7 @@ list2 = [4, 5, 6]
 # 1.  Concatenate two lists
 concatenate = list1 + list2
 print("concatenation of 2 lists: ", concatenate)
+
+#-------------------------------------------------------------------------------------------
+
+
