@@ -106,3 +106,13 @@ print(result)    # None! Use sorted(nums) instead
 
 </details>
 
+### 📅 Series Progress
+- [ ] ** Lecture 01 — Basics, Data Types & Operators ✅
+- [ ] **Lecture 02 — Strings, Slicing & Conditionals ✅
+- [ ] ** Lecture 03 — Lists, Tuples & Methods 📍 (Current)
+- [ ] ** Lecture 04 — Coming Soon
+- [ ] ** Lecture 05 — Coming Soon
+- [ ] ** Lecture 06 — Coming Soon
+- [ ] ** Lecture 07 — Coming Soon
+- [ ] ** Lecture 08 — Coming Soon
+- [ ] ** Lecture 09 — Coming Soon
