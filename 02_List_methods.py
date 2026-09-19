@@ -130,3 +130,7 @@ a = [1, 2, 3, 4, 5]
 del a[2]
 print("After del a[1:3]: ",a)
 
+# 2 Delete elements from index 1 to 3
+del a[1:3]  # remember index 3 is not included
+print("After del a[1:3]: ", a)
+
