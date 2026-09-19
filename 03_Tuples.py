@@ -119,3 +119,12 @@ print("index of 2: ", index_2)
 # ValueError: tuple.index(x): x not in tuple
 
 #-----------------------------------------------------------------------------------------
+
+# Q4. LIST ↔ TUPLE CONVERSION:
+#      a) Convert a list to a tuple: [1, 2, 3, 4, 5] → (1, 2, 3, 4, 5)
+#      b) Convert a tuple to a list: (10, 20, 30) → [10, 20, 30]
+#      c) Convert a string to a tuple: "Hello" → ('H', 'e', 'l', 'l', 'o')
+#      d) Convert a tuple to a string: ('P', 'y') → "Py"
+#      e) Why would you convert a list to a tuple in real life?
+#         Write your answer as a comment.
+
