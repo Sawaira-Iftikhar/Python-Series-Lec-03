@@ -91,4 +91,7 @@ print("Complete Shopping Cart: ",cart)
 
 colors = ["red", "blue", "green", "blue", "yellow"]
 
-# 1. Remove the First
+# 1. Remove the First "blue"
+colors.remove("blue")
+print("After remove('blue'): ", colors)
+
