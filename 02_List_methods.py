@@ -219,3 +219,9 @@ print("the mango index is: ",mango_index)  # it will show error
 #      c) Change original[0] to 99
 #      d) Change original[2][0] to 888 (nested change)
 
+original = [1, 2, [3, 4], 5]
+
+# 1. Direct Assignment
+copy1 = original
+
+
