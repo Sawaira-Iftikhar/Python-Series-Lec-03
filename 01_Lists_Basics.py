@@ -200,3 +200,10 @@ print("-6 to -2: ",alpha[-6:-2])
 print("Middle 4: ",alpha[-6:-2])
 
 #-------------------------------------------------------------------------------------------
+
+# Q9. REVERSE WITH SLICING:
+#     Given: nums = [1, 2, 3, 4, 5, 6, 7, 8]
+#     a) Reverse the entire list using [::-1]
+#     b) Reverse only the first half
+#     c) Reverse only the second half
+#     d) What does nums[2:6:-1] print? Explain WHY.
