@@ -140,3 +140,9 @@ nubmers_list = list(numbers_tuple)
 
 print("tuples to list: ", nubmers_list, type(nubmers_list))
 
+# 3. Convert a string to a tuple
+word = "hello"
+word_tuple = tuple(word)
+
+print("String to tuple: ",word_tuple)
+
