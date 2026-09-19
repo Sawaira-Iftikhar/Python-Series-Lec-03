@@ -128,9 +128,15 @@ print("index of 2: ", index_2)
 #      e) Why would you convert a list to a tuple in real life?
 #         Write your answer as a comment.
 
-# 1. Convert a listto a tuple
+# 1. Convert a list into tuple
 letter_list = ["a", "b", "c"]
 letter_tuple = tuple(letter_list)
 
 print("List to Tuple: ",letter_tuple,type(letter_tuple))
+
+# 2. Convert a tuple into list
+numbers_tuple = (1, 2, 3)
+nubmers_list = list(numbers_tuple)
+
+print("tuples to list: ", nubmers_list, type(nubmers_list))
 
