@@ -221,3 +221,8 @@ print("First Half reversed: ", first_half)
 # 3.  Reverse only the second half 
 second_half = nums[:4][::-1]
 print("Second Half reversed: ", nums[:4] + second_half)
+
+# 4. Negative step with start and stop
+result = nums [2:6:-1]
+print("nums[2:6:-1]: ", result)
+
