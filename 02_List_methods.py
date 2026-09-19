@@ -83,9 +83,9 @@ print("Complete Shopping Cart: ",cart)
 
 # Q3. REMOVE vs POP:
 #     Given: colors = ["red", "blue", "green", "blue", "yellow"]
-#     a) Remove the FIRST "blue" using 
-#     b) Remove the last element using 
-#     c) Remove the element at index 1 using 
+#     a) Remove the FIRST "blue" 
+#     b) Remove the last element 
+#     c) Remove the element at index 1 
 #     d) What does .pop() RETURN? Store it in a variable and print.
 #     e) What happens if you .remove("purple")? Write the error.
 
@@ -95,3 +95,6 @@ colors = ["red", "blue", "green", "blue", "yellow"]
 colors.remove("blue")
 print("After remove('blue'): ", colors)
 
+# 2. Remove the last Element using pop()
+popped_last = colors.pop()
+print("Popped Last: ", popped_last ,"---",colors)
