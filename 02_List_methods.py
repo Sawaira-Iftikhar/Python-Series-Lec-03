@@ -159,3 +159,9 @@ nums = [64, 25, 12, 22, 11]
 nums.sort()
 print("Ascending: ",nums)
 
+# 2. Sort the list in Decending order
+nums.sort(reverse=True)
+print("Decending: ",nums)
+
+
+
