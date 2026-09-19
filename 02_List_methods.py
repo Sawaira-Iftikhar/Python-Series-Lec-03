@@ -98,3 +98,8 @@ print("After remove('blue'): ", colors)
 # 2. Remove the last Element using pop()
 popped_last = colors.pop()
 print("Popped Last: ", popped_last ,"---",colors)
+
+# 3. Remove the element at index 1 using pop(1)
+pooped_index = colors.pop(1)
+print("Popped index 1: ",pooped_index,"---",colors)
+
