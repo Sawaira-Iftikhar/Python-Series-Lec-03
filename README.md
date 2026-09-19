@@ -45,11 +45,12 @@ A collection of Python programs and practice exercises covering the fundamentals
 
 ### 2. List Slicing
 
-```text
+
   10   20   30   40   50
    0    1    2    3    4    ← Positive Index
   -5   -4   -3   -2   -1    ← Negative Index
-Python
+
+```text
 
 nums = [10, 20, 30, 40, 50]
 
