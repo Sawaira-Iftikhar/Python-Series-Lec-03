@@ -103,3 +103,6 @@ nums = [3, 1, 2]
 result = nums.sort()
 print(result)    # None! Use sorted(nums) instead
 ``` 
+
+</details>
+
