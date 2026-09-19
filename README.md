@@ -68,18 +68,18 @@ nums[::2]    # [10, 30, 50]  (every 2nd)
 
 ### 3. Most Used List Methods
 | Method |	Description	| Example |
-|------|--------------|---------|
+|--------|----------|---------|
 |`.append(x)`|	Adds item to end |	`lst.append(5)`|
-.insert(i, x)	Inserts at index	lst.insert(0, 99)
-.extend(iter)	Adds multiple items	lst.extend([7, 8])
-.remove(x)	Removes first match	lst.remove(20)
-.pop(i)	Removes & returns item	lst.pop(-1)
-.sort()	Sorts in place	lst.sort(reverse=True)
-.reverse()	Reverses in place	lst.reverse()
-.count(x)	Counts occurrences	lst.count(3)
-.index(x)	Index of first match	lst.index(20)
-.copy()	Shallow copy	new = lst.copy()
-.clear()	Empties the list	lst.clear()
+|`.insert(i, x)`|	Inserts at index|	`lst.insert(0, 99)`|
+|`.extend(iter)`|	Adds multiple items	|`lst.extend([7, 8])`|
+|`.remove(x)`|	Removes first match	|`lst.remove(20)`|
+|`.pop(i)`|	Removes & returns item|	`lst.pop(-1)`|
+|`.sort()`|	Sorts in place|	`lst.sort(reverse=True)`|
+|`.reverse()`|	Reverses in place|`lst.reverse()`|
+|`.count(x)`|	Counts occurrences|	`lst.count(3)`|
+|`.index(x)`|	Index of first match|	`lst.index(20)`|
+|`.copy()`|	Shallow copy	|`new = lst.copy()`|
+|`.clear()`|	Empties the list|	`lst.clear()`|
 
 ```
 # ❌ Tuples are immutable — this will ERROR
