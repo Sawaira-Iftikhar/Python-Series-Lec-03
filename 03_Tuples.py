@@ -45,3 +45,11 @@ packed = 1, 2, 3
 print("Tuple without Parenthese: ",packed,type(packed))
 
 #-----------------------------------------------------------------------------------------
+
+# Q2. ACCESSING ELEMENTS:
+#     Given: colors = ("red", "green", "blue", "yellow", "purple")
+#     a) Print the first color
+#     b) Print the last color using negative index
+#     c) Print the length of the tuple
+#     d) Check if "blue" is in the tuple using 'in'
+#     e) Check if "orange" is NOT in the tuple
