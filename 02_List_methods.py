@@ -224,4 +224,7 @@ original = [1, 2, [3, 4], 5]
 # 1. Direct Assignment
 copy1 = original
 
+# 2. Shallow copy
+copy2 = original.copy()
+
 
