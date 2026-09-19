@@ -64,7 +64,9 @@ nums[2:]     # [30, 40, 50]
 nums[::-1]   # [50, 40, 30, 20, 10]  (reverse)
 nums[-3:]    # [30, 40, 50]
 nums[::2]    # [10, 30, 50]  (every 2nd)
+``` 
 
+```
 # ❌ Tuples are immutable — this will ERROR
 t = (1, 2, 3)
 t[0] = 99        # TypeError!
@@ -77,3 +79,4 @@ t = (5,)         # ✅ This is a tuple
 nums = [3, 1, 2]
 result = nums.sort()
 print(result)    # None! Use sorted(nums) instead
+``` 
