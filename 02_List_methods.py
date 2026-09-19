@@ -81,7 +81,7 @@ print("Complete Shopping Cart: ",cart)
 #  PART B: REMOVING ELEMENTS 
 # ==========================================
 
-# Q4. REMOVE vs POP:
+# Q3. REMOVE vs POP:
 #     Given: colors = ["red", "blue", "green", "blue", "yellow"]
 #     a) Remove the FIRST "blue" using .remove()
 #     b) Remove the last element using .pop()
