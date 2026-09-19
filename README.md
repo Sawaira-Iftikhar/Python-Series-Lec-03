@@ -32,3 +32,15 @@ A collection of Python programs and practice exercises covering the fundamentals
 
 <br>
 
+### 1. List vs Tuple — Key Differences
+
+| Feature | List `[]` | Tuple `()` |
+|---------|-----------|------------|
+| Syntax | `[1, 2, 3]` | `(1, 2, 3)` |
+| Mutable | ✅ Yes | ❌ No |
+| Methods | Many (append, pop, sort…) | Only 2 (count, index) |
+| Speed | Slower | Faster |
+| Use Case | Data that changes | Data that stays fixed |
+| Memory | More | Less |
+
+---
