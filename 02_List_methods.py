@@ -4,7 +4,7 @@
   Topics: append, insert, extend, remove,
           pop, sort, reverse, count, index,
           copy, clear
-  Total Questions: 
+  Total Questions: 7
 ============================================
 """
 
