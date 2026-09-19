@@ -63,3 +63,6 @@ cart = []
 # 1. Add Milk
 cart.append("Milk")
 
+# 2. Add Bread
+cart.append("Bread")
+
