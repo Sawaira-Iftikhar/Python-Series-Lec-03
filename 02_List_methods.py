@@ -47,3 +47,4 @@ print("After extend([7, 8, 9]): ", fresh_num)
 # append() adds the entire list as ONE element.
 # extend() adds each element of the list separately.
 
+#-----------------------------------------------------------------------------------------
