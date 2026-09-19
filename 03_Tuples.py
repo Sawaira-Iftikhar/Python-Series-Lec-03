@@ -113,3 +113,7 @@ print("Count of 9: ", count_9)
 # 4.  Find the index of first 2 
 index_2 = nums.index(2)
 print("index of 2: ", index_2)
+
+# 5. Search for 99
+# nums.index(99)
+# ValueError: tuple.index(x): x not in tuple
