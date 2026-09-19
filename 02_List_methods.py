@@ -146,9 +146,10 @@ print("After clear: ", a)
 
 # Q5. SORT vs SORTED:
 #     Given: nums = [64, 25, 12, 22, 11]
-#     a) Sort the list in ASCENDING order using .sort()
-#     b) Sort in DESCENDING order using .sort(reverse=True)
-#     c) Create a NEW sorted list using sorted() without
+#     a) Sort the list in ASCENDING order 
+#     b) Sort in DESCENDING order
+#     c) Create a NEW sorted list 
 #        changing the original
 #     d) What does .sort() return? Try: result = nums.sort()
 #        Print result. Explain WHY it's None.
+
