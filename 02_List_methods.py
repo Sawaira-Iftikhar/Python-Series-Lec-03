@@ -48,3 +48,12 @@ print("After extend([7, 8, 9]): ", fresh_num)
 # extend() adds each element of the list separately.
 
 #-----------------------------------------------------------------------------------------
+
+# Q2. BUILDING A LIST FROM SCRATCH:
+#     Start with an empty list: cart = []
+#     Simulate a shopping cart by adding items one by one:
+#     a) ("Milk")
+#     b) ("Bread")
+#     c) (0, "Eggs")  (Eggs are most important!)
+#     d) (["Butter", "Cheese"])
+#     Print the final cart.
