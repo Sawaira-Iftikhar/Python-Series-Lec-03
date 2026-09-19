@@ -103,3 +103,7 @@ print("Popped Last: ", popped_last ,"---",colors)
 pooped_index = colors.pop(1)
 print("Popped index 1: ",pooped_index,"---",colors)
 
+# 4. pop() returns the remove element
+popped_value = colors.pop()
+print(".pop() returns: ",popped_value)
+
