@@ -24,3 +24,7 @@
 num = (1, 2, 3, 4, 5)
 print(num,type(num))
 
+# 2. Tuples of 3 strings
+letters = ("a", "b", "c")
+print(letters,type(letters))
+
