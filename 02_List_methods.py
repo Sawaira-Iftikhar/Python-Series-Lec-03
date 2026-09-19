@@ -123,5 +123,3 @@ print(".pop() returns: ",popped_value)
 #     a) Delete the element at index 2 using del
 #     b) Delete a slice (index 1 to 3) using del
 #     c) Clear the entire list using .clear()
-#     d) What is the difference between .clear() and del a?
-#        Try both and explain in a comment.
