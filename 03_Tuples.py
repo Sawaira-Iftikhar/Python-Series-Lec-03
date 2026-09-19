@@ -53,3 +53,10 @@ print("Tuple without Parenthese: ",packed,type(packed))
 #     c) Print the length of the tuple
 #     d) Check if "blue" is in the tuple using 'in'
 #     e) Check if "orange" is NOT in the tuple
+
+
+colors = ("red", "green", "blue", "yellow", "purple")
+
+# 1. Print the first color
+print("First color: ",colors[0])
+
