@@ -43,3 +43,19 @@ A collection of Python programs and practice exercises covering the fundamentals
 | Use Case | Data that changes | Data that stays fixed |
 | Memory | More | Less |
 
+### 2. List Slicing
+
+```text
+  10   20   30   40   50
+   0    1    2    3    4    ← Positive Index
+  -5   -4   -3   -2   -1    ← Negative Index
+Python
+
+nums = [10, 20, 30, 40, 50]
+
+nums[1:4]    # [20, 30, 40]
+nums[:3]     # [10, 20, 30]
+nums[2:]     # [30, 40, 50]
+nums[::-1]   # [50, 40, 30, 20, 10]  (reverse)
+nums[-3:]    # [30, 40, 50]
+nums[::2]    # [10, 30, 50]  (every 2nd)
