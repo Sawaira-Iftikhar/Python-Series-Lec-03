@@ -20,11 +20,15 @@
 #     f) A tuple WITHOUT parentheses (tuple packing)
 
 
-# 1. Tuples of 5 integers
+# 1. Tuple of 5 integers
 num = (1, 2, 3, 4, 5)
-print(num,type(num))
+print("Tuple of 5 integer",num,type(num))
 
-# 2. Tuples of 3 strings
+# 2. Tuple of 3 strings
 letters = ("a", "b", "c")
-print(letters,type(letters))
+print("Tuple of 3 string",letters,type(letters))
+
+# 3. Empty Tuple
+empty = ()
+print("Empty tuple",empty,type(empty))
 
