@@ -227,4 +227,7 @@ copy1 = original
 # 2. Shallow copy
 copy2 = original.copy()
 
+# 3. Change an element in the outer list
+original[0] = 99
+
 
