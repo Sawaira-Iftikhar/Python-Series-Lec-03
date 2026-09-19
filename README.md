@@ -13,3 +13,14 @@ A collection of Python programs and practice exercises covering the fundamentals
 | 6 | Tuple Methods | ✅ |
 
 ---
+
+## 📂 Practice Files
+
+| File | Topics |  Questions |
+|------|--------|:---------:|
+| [01_Lists_Basics.py](01_Lists_Basics.py) | List Basics, List Slicing (Positive & Negative) |  08 |
+| [02_List_methods.py](02_List_methods.py) | List Methods (add, remove, sort, etc.) |  07 |
+| [03_Tuples.py](03_Tuples.py) | Tuple Basics, Tuple Slicing, Tuple Methods |  04 |
+| [04_Challenge.py](04_Challenge.py) | ALL Topics Mixed (Boss Level) | 0  |
+
+---
