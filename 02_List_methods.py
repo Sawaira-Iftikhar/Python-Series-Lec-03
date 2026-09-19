@@ -230,4 +230,5 @@ copy2 = original.copy()
 # 3. Change an element in the outer list
 original[0] = 99
 
-
+# 4. Change an element inside th nested list
+original[2][0] = 888
