@@ -66,3 +66,5 @@ cart.append("Milk")
 # 2. Add Bread
 cart.append("Bread")
 
+# 3. Add Eggs at index 0
+cart.insert(0,"Eggs")
