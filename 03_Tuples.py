@@ -60,3 +60,6 @@ colors = ("red", "green", "blue", "yellow", "purple")
 # 1. Print the first color
 print("First color: ",colors[0])
 
+# 2. Print the last color using negative index
+print("Last color: ",colors[-1])
+
