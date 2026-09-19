@@ -24,3 +24,11 @@ A collection of Python programs and practice exercises covering the fundamentals
 | [04_Challenge.py](04_Challenge.py) | ALL Topics Mixed (Boss Level) | 0  |
 
 ---
+
+## 💡 Quick Cheat Sheet (Lecture 3 Highlights)
+
+<details>
+<summary><b>Click to expand quick revision notes</b></summary>
+
+<br>
+
