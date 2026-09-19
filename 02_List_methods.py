@@ -163,5 +163,14 @@ print("Ascending: ",nums)
 nums.sort(reverse=True)
 print("Decending: ",nums)
 
+# 3. Created a New sorted list 
+# make a fres original list for this part.
+original = [65, 78, 11, 24, 22]
+
+sorted_nums = sorted(original)
+
+print("sorted() new list ", sorted_nums)
+print("Original unchanged: ",original)
+
 
 
