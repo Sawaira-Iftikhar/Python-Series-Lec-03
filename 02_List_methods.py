@@ -33,3 +33,14 @@ print("After insert(0, 99): ", nums)
 # 3. Add [7, 8, 9] to the END 
 nums.extend([7, 8, 9])
 print("After extend([7, 8,9]): ",nums)
+
+# 4. Compare append() and extend()
+fresh_num = [1,2,3]
+
+fresh_num.append([7, 8,9])
+print("After append([7,8,9]): ", fresh_num)
+
+fresh_num = [1, 2, 3]
+fresh_num.extend([7, 8, 9])
+print("After extend([7, 8, 9]): ", fresh_num)
+
