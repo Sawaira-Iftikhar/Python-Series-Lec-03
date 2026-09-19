@@ -151,3 +151,11 @@ letter = ("P" , "y", "t", "h", "o", "n")
 words = "".join(letter)
 
 print("tuple to string: ", words)
+
+# 5. Why convert a list to a tuple?
+"""
+# A list can be changed, but a tuple cannot be changed.
+# So, we can convert a list to a tuple when we want
+# the data to stay fixed and protected from modification.
+
+"""
