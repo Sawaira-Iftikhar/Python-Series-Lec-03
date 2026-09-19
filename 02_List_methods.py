@@ -107,3 +107,11 @@ print("Popped index 1: ",pooped_index,"---",colors)
 popped_value = colors.pop()
 print(".pop() returns: ",popped_value)
 
+# 5. Q : if you .remove("purple")?
+
+"""
+# remove() with a vlaue that does not exist
+# colors.remove("purple")
+# valueError: list.remove(x): xnot in list
+
+"""
