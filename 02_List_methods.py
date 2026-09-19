@@ -57,3 +57,9 @@ print("After extend([7, 8, 9]): ", fresh_num)
 #     c) (0, "Eggs")  (Eggs are most important!)
 #     d) (["Butter", "Cheese"])
 #     Print the final cart.
+
+cart = []
+
+# 1. Add Milk
+cart.append("Milk")
+
