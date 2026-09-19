@@ -40,3 +40,7 @@ print("Mixed datatype Tuple: ",mixed,type(mixed))
 single = (5,)
 print("Single element: ",single,type(single))
 
+# 6. tuple withoit parenthese (tuple packing)
+packed = 1, 2, 3
+print("Tuple without Parenthese: ",packed,type(packed))
+
