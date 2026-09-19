@@ -77,3 +77,14 @@ print('"orange" not in tuple: ', "orange" not in colors)
 # ==========================================
 #  PART B: TUPLE SLICING 
 # ==========================================
+
+"""
+Tuple slicing and list slicing both are excatly are same not a little bit is change 
+
+One major difference:
+
+as you can change the value of index in list 
+But in tuple we can not chagne the value of index just like string 
+
+OK! I Hope you get it.
+"""
