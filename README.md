@@ -81,6 +81,14 @@ nums[::2]    # [10, 30, 50]  (every 2nd)
 |`.copy()`|	Shallow copy	|`new = lst.copy()`|
 |`.clear()`|	Empties the list|	`lst.clear()`|
 
+
+### 4. Tuple Methods (Only 2!)
+|Method	|Description|	Example|
+|--------|----------|---------|
+|`.count(x)`	|Counts occurrences|	`t.count(5)` |
+|`.index(x)`	|Index of first match|	`t.index(10)` |
+
+
 ```
 # ❌ Tuples are immutable — this will ERROR
 t = (1, 2, 3)
