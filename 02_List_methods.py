@@ -205,3 +205,7 @@ print('First "apple" at: ',first_apple, "index")
 # 3. Find the index of "cherry"
 cherry_index = fruits.index("cherry")
 print('The "cherry" is at: ',cherry_index, "index")
+
+# 4. Search of "mango"
+mango_index = fruits.index("mango")
+print("the mango index is: ",mango_index)  # it will show error 
