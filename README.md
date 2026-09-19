@@ -46,9 +46,13 @@ A collection of Python programs and practice exercises covering the fundamentals
 ### 2. List Slicing
 
 
-  10   20   30   40   50
-   0    1    2    3    4    ← Positive Index
-  -5   -4   -3   -2   -1    ← Negative Index
+ | 10 | 20 | 30 | 40 | 50 | 
+|---|---|---|---|---|
+| 0 | 1 | 2 | 3 | 4 |← Positive Index 
+|-5 |-4 |-3 |-2 |-1 |← Negative Index
+
+**Positive Index →** left to right: `0 1 2 3 4`  
+**Negative Index →** right to left: `-1 -2 -3 -4 -5`
 
 ```text
 
