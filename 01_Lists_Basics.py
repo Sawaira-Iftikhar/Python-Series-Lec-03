@@ -227,3 +227,11 @@ result = nums [2:6:-1]
 print("nums[2:6:-1]: ", result)
 
 # WHY ?
+"""
+# nums [2] is the starting position.
+# nums [6] is the stopping position.
+# The step is -1, so Python needs to move LEFT.
+# But index 6 is to the RIGHT of index 2.
+# Therefore, Python cannot move from 2 toward 6 using -1.
+# So the result is an empty list: []
+"""
