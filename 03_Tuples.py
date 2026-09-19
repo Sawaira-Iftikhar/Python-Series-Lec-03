@@ -63,3 +63,5 @@ print("First color: ",colors[0])
 # 2. Print the last color using negative index
 print("Last color: ",colors[-1])
 
+# 3. Print the length of the tuple
+print("length of tuple: ",len(colors))
