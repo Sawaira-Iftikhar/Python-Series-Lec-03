@@ -207,3 +207,11 @@ print("Middle 4: ",alpha[-6:-2])
 #     b) Reverse only the first half
 #     c) Reverse only the second half
 #     d) What does nums[2:6:-1] print? Explain WHY.
+
+nums = [1, 2, 3, 4, 5, 6, 7, 8]
+
+# 1.  Reverse the entire list 
+full_reverse = nums[::-1]
+print("Full reverse: ", full_reverse)
+
+
