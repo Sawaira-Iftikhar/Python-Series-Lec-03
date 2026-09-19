@@ -146,3 +146,8 @@ word_tuple = tuple(word)
 
 print("String to tuple: ",word_tuple)
 
+# 4. Convert a tuple into a string
+letter = ("P" , "y", "t", "h", "o", "n")
+words = "".join(letter)
+
+print("tuple to string: ", words)
