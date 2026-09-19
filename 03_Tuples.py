@@ -35,3 +35,8 @@ print("Empty tuple; ",empty,type(empty))
 # 4. Mixed tuple
 mixed = (10, 3.4, "hello", True)
 print("Mixed datatype Tuple: ",mixed,type(mixed))
+
+# 5. Single-element tuple
+single = (5,)
+print("Single element: ",single,type(single))
+
