@@ -123,3 +123,10 @@ print(".pop() returns: ",popped_value)
 #     a) Delete the element at index 2 using del
 #     b) Delete a slice (index 1 to 3) using del
 #     c) Clear the entire list using .clear()
+
+a = [1, 2, 3, 4, 5]
+
+# 1. Delete the element at index
+del a[2]
+print("After del a[1:3]: ",a)
+
