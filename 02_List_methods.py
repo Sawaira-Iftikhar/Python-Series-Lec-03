@@ -30,4 +30,6 @@ print("After append(4): ",nums)
 nums.insert(0, 99)
 print("After insert(0, 99): ", nums)
 
-
+# 3. Add [7, 8, 9] to the END 
+nums.extend([7, 8, 9])
+print("After extend([7, 8,9]): ",nums)
