@@ -101,3 +101,8 @@ OK! I Hope you get it.
 #     d) What happens if you .index(99)? Write the error.
 
 nums = (1, 2, 3, 2, 4, 2, 5, 2)
+
+# 1. Count how mnain times 2 appears
+count_2 = nums.count(2)
+print("Count of 2:", count_2)
+
