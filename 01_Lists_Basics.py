@@ -226,3 +226,4 @@ print("Second Half reversed: ", nums[:4] + second_half)
 result = nums [2:6:-1]
 print("nums[2:6:-1]: ", result)
 
+# WHY ?
