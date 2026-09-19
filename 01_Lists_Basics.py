@@ -201,7 +201,7 @@ print("Middle 4: ",alpha[-6:-2])
 
 #-------------------------------------------------------------------------------------------
 
-# Q9. REVERSE WITH SLICING:
+# Q8. REVERSE WITH SLICING:
 #     Given: nums = [1, 2, 3, 4, 5, 6, 7, 8]
 #     a) Reverse the entire list using [::-1]
 #     b) Reverse only the first half
