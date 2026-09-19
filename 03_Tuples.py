@@ -19,3 +19,8 @@
 #     e) A SINGLE element tuple (TRICKY! use a comma)
 #     f) A tuple WITHOUT parentheses (tuple packing)
 
+
+# 1. Tuples of 5 integers
+num = (1, 2, 3, 4, 5)
+print(num,type(num))
+
