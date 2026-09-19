@@ -235,3 +235,4 @@ print("nums[2:6:-1]: ", result)
 # Therefore, Python cannot move from 2 toward 6 using -1.
 # So the result is an empty list: []
 """
+#------------------------------------------------------------------------------------------
