@@ -68,7 +68,7 @@ nums[::2]    # [10, 30, 50]  (every 2nd)
 
 ### 3. Most Used List Methods
 | Method |	Description	| Example |
-|---------|--------------|---------|
+|------|--------------|---------|
 |`.append(x)`|	Adds item to end |	`lst.append(5)`|
 .insert(i, x)	Inserts at index	lst.insert(0, 99)
 .extend(iter)	Adds multiple items	lst.extend([7, 8])
