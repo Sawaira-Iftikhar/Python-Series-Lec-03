@@ -202,3 +202,6 @@ print('Count of "apple": ', apple_count)
 first_apple = fruits.index("apple")
 print('First "apple" at: ',first_apple, "index")
 
+# 3. Find the index of "cherry"
+cherry_index = fruits.index("cherry")
+print('The "cherry" is at: ',cherry_index, "index")
