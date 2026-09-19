@@ -65,3 +65,7 @@ print("Last color: ",colors[-1])
 
 # 3. Print the length of the tuple
 print("length of tuple: ",len(colors))
+
+# 4. Check if "blue" is in the tuple
+print('"blue" in tuple: ',"blue" in colors)
+
