@@ -69,3 +69,5 @@ print("length of tuple: ",len(colors))
 # 4. Check if "blue" is in the tuple
 print('"blue" in tuple: ',"blue" in colors)
 
+## 5. Check if "orange" is not in the tuple
+print('"orange" not in tuple: ', "orange" not in colors)
