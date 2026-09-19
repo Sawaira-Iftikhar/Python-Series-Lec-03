@@ -88,3 +88,7 @@ But in tuple we can not chagne the value of index just like string
 
 OK! I Hope you get it.
 """
+
+# ==========================================
+#  PART C: TUPLE METHODS 
+# ==========================================
