@@ -44,3 +44,6 @@ fresh_num = [1, 2, 3]
 fresh_num.extend([7, 8, 9])
 print("After extend([7, 8, 9]): ", fresh_num)
 
+# append() adds the entire list as ONE element.
+# extend() adds each element of the list separately.
+
