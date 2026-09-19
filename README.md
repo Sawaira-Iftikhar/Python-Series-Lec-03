@@ -12,7 +12,7 @@ A collection of Python programs and practice exercises covering the fundamentals
 | 5 | Tuple Slicing (Positive & Negative) | ✅ |
 | 6 | Tuple Methods | ✅ |
 
----
+
 
 ## 📂 Practice Files
 
@@ -23,7 +23,7 @@ A collection of Python programs and practice exercises covering the fundamentals
 | [03_Tuples.py](03_Tuples.py) | Tuple Basics, Tuple Slicing, Tuple Methods |  04 |
 | [04_Challenge.py](04_Challenge.py) | ALL Topics Mixed (Boss Level) | 0  |
 
----
+
 
 ## 💡 Quick Cheat Sheet (Lecture 3 Highlights)
 
@@ -43,4 +43,3 @@ A collection of Python programs and practice exercises covering the fundamentals
 | Use Case | Data that changes | Data that stays fixed |
 | Memory | More | Less |
 
----
