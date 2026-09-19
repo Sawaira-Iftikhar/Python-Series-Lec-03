@@ -95,8 +95,9 @@ OK! I Hope you get it.
 
 # Q3. COUNT & INDEX (The ONLY 2 tuple methods):
 #     Given: nums = (1, 2, 3, 2, 4, 2, 5, 2)
-#     a) Count how many times 2 appears → .count()
-#     b) Count how many times 9 appears → .count()
-#     c) Find the index of first 4 → .index()
-#     d) Find the index of first 2 → .index()
-#     e) What happens if you .index(99)? Write the error.
+#     a) Count how many times 2 appears 
+#     b) Count how many times 9 appears 
+#     c) Find the index of first 2 
+#     d) What happens if you .index(99)? Write the error.
+
+nums = (1, 2, 3, 2, 4, 2, 5, 2)
