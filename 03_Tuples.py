@@ -102,11 +102,11 @@ OK! I Hope you get it.
 
 nums = (1, 2, 3, 2, 4, 2, 5, 2)
 
-# 1. Count how mnain times 2 appears
+# 1. Count how many times 2 appears
 count_2 = nums.count(2)
 print("Count of 2: ", count_2)
 
-# 2. Count how main times 9 appear
+# 2. Count how many times 9 appear
 count_9 = nums.count(9)
 print("Count of 9: ", count_9)
 
