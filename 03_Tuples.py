@@ -22,13 +22,16 @@
 
 # 1. Tuple of 5 integers
 num = (1, 2, 3, 4, 5)
-print("Tuple of 5 integer",num,type(num))
+print("Tuple of 5 integer: ",num,type(num))
 
 # 2. Tuple of 3 strings
 letters = ("a", "b", "c")
-print("Tuple of 3 string",letters,type(letters))
+print("Tuple of 3 string: ",letters,type(letters))
 
 # 3. Empty Tuple
 empty = ()
-print("Empty tuple",empty,type(empty))
+print("Empty tuple; ",empty,type(empty))
 
+# 4. Mixed tuple
+mixed = (10, 3.4, "hello", True)
+print("Mixed datatype Tuple: ",mixed,type(mixed))
