@@ -214,4 +214,6 @@ nums = [1, 2, 3, 4, 5, 6, 7, 8]
 full_reverse = nums[::-1]
 print("Full reverse: ", full_reverse)
 
-
+# 2. Reverse only first half
+first_half = nums[:4][::-1]
+print("First Half reversed: ", first_half)
