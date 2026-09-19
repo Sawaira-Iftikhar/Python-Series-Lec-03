@@ -172,5 +172,9 @@ sorted_nums = sorted(original)
 print("sorted() new list ", sorted_nums)
 print("Original unchanged: ",original)
 
+# 4. What does .sort() return?
+result = nums.sort()
+print(".sort() returns: ",result)
+
 
 
