@@ -176,5 +176,10 @@ print("Original unchanged: ",original)
 result = nums.sort()
 print(".sort() returns: ",result)
 
+"""
+# .sort() changes the original list directly
+# It does not create and return a new list
+# Therefore, .sort() returns None.
 
+"""
 
