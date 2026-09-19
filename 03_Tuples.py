@@ -110,3 +110,6 @@ print("Count of 2: ", count_2)
 count_9 = nums.count(9)
 print("Count of 9: ", count_9)
 
+# 4.  Find the index of first 2 
+index_2 = nums.index(2)
+print("index of 2: ", index_2)
