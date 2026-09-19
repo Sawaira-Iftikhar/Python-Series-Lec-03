@@ -71,3 +71,6 @@ cart.insert(0,"Eggs")
 
 # 4. Add Butter and Cheese
 cart.extend(["Butter", "Cheese"])
+
+# Print the final cart 
+print("Complete Shopping Cart: ",cart)
