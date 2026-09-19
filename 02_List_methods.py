@@ -218,7 +218,7 @@ print("the mango index is: ",mango_index)  # it will show error
 #      b) Create a shallow copy:
 #      c) Change original[0] to 99
 #      d) Change original[2][0] to 888 (nested change)
-
+#      e) Print all three lists
 original = [1, 2, [3, 4], 5]
 
 # 1. Direct Assignment
