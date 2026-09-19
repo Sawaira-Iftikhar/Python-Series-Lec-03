@@ -206,10 +206,12 @@ print('First "apple" at: ',first_apple, "index")
 cherry_index = fruits.index("cherry")
 print('The "cherry" is at: ',cherry_index, "index")
 
+"""
 # 4. Search of "mango"
 mango_index = fruits.index("mango")
 print("the mango index is: ",mango_index)  # it will show error 
 
+"""
 #-----------------------------------------------------------------------------------------
 
 # Q7. COPY — Shallow vs Direct Assignment:
@@ -232,3 +234,8 @@ original[0] = 99
 
 # 4. Change an element inside th nested list
 original[2][0] = 888
+
+# 5. Print all three lists
+print("original: ",original)
+print("copy1 (direct): ",copy1)
+print("copy2 (shallow): ",copy2)
