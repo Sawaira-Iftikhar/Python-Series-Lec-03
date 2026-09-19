@@ -191,3 +191,10 @@ print(".sort() returns: ",result)
 #     b) Find the index of FIRST "apple"
 #     c) Find the index of "cherry" 
 #     d) What happens if you search for "mango"? 
+
+fruits = ["apple", "banana", "apple", "cherry", "apple", "date"]
+
+# 1. Count how many times "apple" appears
+apple_count = fruits.count("apple")
+print('Count of "apple": ', apple_count)
+
