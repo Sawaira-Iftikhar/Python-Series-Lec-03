@@ -19,3 +19,9 @@
 #     c) Add [7, 8, 9] to the END 
 #     d) What happens if you .append([7, 8, 9]) instead of .extend()?
 #        Try it on a fresh list and explain the difference.
+
+nums = [1, 2, 3]
+
+# 1. Add 4 to the END using append()
+nums.append(4)
+print("After append(4): ",nums)
