@@ -153,3 +153,9 @@ print("After clear: ", a)
 #     d) What does .sort() return? Try: result = nums.sort()
 #        Print result. Explain WHY it's None.
 
+nums = [64, 25, 12, 22, 11]
+
+# 1. Sort the list in ascending order
+nums.sort()
+print("Ascending: ",nums)
+
