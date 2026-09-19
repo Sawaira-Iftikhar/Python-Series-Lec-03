@@ -184,3 +184,10 @@ print(".sort() returns: ",result)
 """
 
 #-----------------------------------------------------------------------------------------
+
+# Q6. COUNT & INDEX:
+#     Given: fruits = ["apple", "banana", "apple", "cherry", "apple", "date"]
+#     a) Count how many times "apple" appears
+#     b) Find the index of FIRST "apple"
+#     c) Find the index of "cherry" 
+#     d) What happens if you search for "mango"? 
