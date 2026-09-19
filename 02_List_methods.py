@@ -22,6 +22,12 @@
 
 nums = [1, 2, 3]
 
-# 1. Add 4 to the END using append()
+# 1. Add 4 to the END 
 nums.append(4)
 print("After append(4): ",nums)
+
+# 2. Add 99 at index 0 
+nums.insert(0, 99)
+print("After insert(0, 99): ", nums)
+
+
