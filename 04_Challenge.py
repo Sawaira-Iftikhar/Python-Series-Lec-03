@@ -55,3 +55,7 @@ print("Sorted(desc): ",scores)
 # 3. Print TOP 3 scores
 top = scores[:3]
 print("Top 3: ", top)
+
+# 4. Print Bottom 3 scores
+bottom = scores[-3:]
+print("Bottom 3:", bottom)
