@@ -187,6 +187,15 @@ if playlist[5] in favorites:
 
 print("--------------------------------")
 
-# 6. Create a REVERSED copy using slicing
+# 6. Create a Reversed copy using slicing
 reversed_playlist = playlist[::-1]
 print("Reversed Playlist:", reversed_playlist)
+
+# 7. Convert favorites tuple → list
+updated_favorites = list(favorites)
+
+# Add "Hey Jude"
+updated_favorites.append("Hey Jude")
+
+# Convert list → tuple
+updated_favorites = tuple(updated_favorites)
