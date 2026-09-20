@@ -59,3 +59,7 @@ print("Top 3: ", top)
 # 4. Print Bottom 3 scores
 bottom = scores[-3:]
 print("Bottom 3:", bottom)
+
+# 5. Calculate the average
+average = sum(scores) / len(scores)
+print("Average:", average)
