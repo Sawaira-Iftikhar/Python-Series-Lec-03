@@ -150,3 +150,8 @@ print("  4.", playlist[3])
 print("  5.", playlist[4])
 
 print("--------------------------------")
+
+# 2. Add "Let It Be" to the end
+playlist.append("Let It Be")
+print('After adding "Let It Be":', playlist)
+
