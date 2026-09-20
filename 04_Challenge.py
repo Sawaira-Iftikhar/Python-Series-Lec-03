@@ -44,3 +44,11 @@ scores = [45, 78, 92, 55, 88, 33, 95, 67, 71, 60]
 print("================================")
 print("    STUDENT GRADE MANAGER")
 print("================================")
+
+# 1. Print the original scores
+print("Original: ",scores)
+
+# 2. Sort scores in descening order
+scores.sort(reverse=True)
+print("Sorted(desc): ",scores)
+
