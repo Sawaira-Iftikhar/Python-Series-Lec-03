@@ -52,3 +52,6 @@ print("Original: ",scores)
 scores.sort(reverse=True)
 print("Sorted(desc): ",scores)
 
+# 3. Print TOP 3 scores
+top = scores[:3]
+print("Top 3: ", top)
