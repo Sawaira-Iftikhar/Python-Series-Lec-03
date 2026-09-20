@@ -166,3 +166,25 @@ print('After removing "Yesterday":', playlist)
 
 
 print("--------------------------------")
+
+# 5. Check which songs are favorites
+if playlist[0] in favorites:
+    print(playlist[0] + "' is a favorite!")
+
+if playlist[1] in favorites:
+    print(playlist[1] + "' is a favorite!")
+
+if playlist[2] in favorites:
+    print(playlist[2] + "' is a favorite!")
+
+if playlist[3] in favorites:
+    print(playlist[3] + "' is a favorite!")
+
+if playlist[4] in favorites:
+    print(playlist[4] + "' is a favorite!")
+
+if playlist[5] in favorites:
+    print(playlist[5] + "' is a favorite!")
+
+
+print("--------------------------------")
