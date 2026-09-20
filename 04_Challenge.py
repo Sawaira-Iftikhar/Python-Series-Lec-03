@@ -139,3 +139,14 @@ favorites = ("Bohemian Rhapsody", "Imagine")
 print("================================")
 print("     PLAYLIST MANAGER")
 print("================================")
+
+# 1. Print the current playlist with numbering
+print("Current Playlist:")
+
+print("  1.", playlist[0])
+print("  2.", playlist[1])
+print("  3.", playlist[2])
+print("  4.", playlist[3])
+print("  5.", playlist[4])
+
+print("--------------------------------")
