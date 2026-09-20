@@ -135,3 +135,7 @@ playlist = [
 ]
 
 favorites = ("Bohemian Rhapsody", "Imagine")
+
+print("================================")
+print("     PLAYLIST MANAGER")
+print("================================")
