@@ -39,3 +39,8 @@ Write a program that:
 
 """
 
+scores = [45, 78, 92, 55, 88, 33, 95, 67, 71, 60]
+
+print("================================")
+print("    STUDENT GRADE MANAGER")
+print("================================")
