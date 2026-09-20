@@ -126,3 +126,10 @@ Write a program that:
 
 """
 
+playlist = [
+    "Bohemian Rhapsody",
+    "Stairway to Heaven",
+    "Hotel California",
+    "Imagine",
+    "Yesterday"
+]
