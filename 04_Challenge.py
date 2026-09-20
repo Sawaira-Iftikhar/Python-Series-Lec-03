@@ -133,3 +133,5 @@ playlist = [
     "Imagine",
     "Yesterday"
 ]
+
+favorites = ("Bohemian Rhapsody", "Imagine")
