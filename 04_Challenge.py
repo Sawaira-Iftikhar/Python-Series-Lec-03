@@ -2,7 +2,7 @@
 ============================================
   LECTURE 3 - FILE 4: BOSS CHALLENGE 
   Topics: ALL 6 Topics Combined
-  Total Challenges: 
+  Total Challenges: 2
 ============================================
   These problems combine Lists, Tuples,
   Slicing, and Methods together.
