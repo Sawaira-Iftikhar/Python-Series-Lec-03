@@ -164,7 +164,6 @@ print('After inserting "Hey Jude":', playlist)
 playlist.remove("Yesterday")
 print('After removing "Yesterday":', playlist)
 
-
 print("--------------------------------")
 
 # 5. Check which songs are favorites
@@ -186,5 +185,8 @@ if playlist[4] in favorites:
 if playlist[5] in favorites:
     print(playlist[5] + "' is a favorite!")
 
-
 print("--------------------------------")
+
+# 6. Create a REVERSED copy using slicing
+reversed_playlist = playlist[::-1]
+print("Reversed Playlist:", reversed_playlist)
