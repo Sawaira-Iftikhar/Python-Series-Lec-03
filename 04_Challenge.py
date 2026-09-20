@@ -81,3 +81,6 @@ print("Failing grades removed:", failing_count)
 
 # 7. Add 100 at the beginning
 scores.insert(0, 100)
+
+# 8. Print the final cleaned and sorted list
+print("After adding 100:", scores)
