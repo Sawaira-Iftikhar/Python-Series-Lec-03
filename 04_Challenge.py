@@ -63,3 +63,18 @@ print("Bottom 3:", bottom)
 # 5. Calculate the average
 average = sum(scores) / len(scores)
 print("Average:", average)
+
+# 6. Remove all scores below 50
+# Count the failing scores first
+failing_count = 0
+
+for score in scores:
+    if score < 50:
+        failing_count += 1
+
+# Remove each failing score
+for score in scores.copy():
+    if score < 50:
+        scores.remove(score)
+
+print("Failing grades removed:", failing_count)
