@@ -199,3 +199,9 @@ updated_favorites.append("Hey Jude")
 
 # Convert list → tuple
 updated_favorites = tuple(updated_favorites)
+
+# 8. Print final playlist and updated favorites
+print("Final Playlist:", playlist)
+print("Updated Favorites:", updated_favorites)
+
+print("================================")
