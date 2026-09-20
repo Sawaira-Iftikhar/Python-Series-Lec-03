@@ -78,3 +78,6 @@ for score in scores.copy():
         scores.remove(score)
 
 print("Failing grades removed:", failing_count)
+
+# 7. Add 100 at the beginning
+scores.insert(0, 100)
