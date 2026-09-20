@@ -9,3 +9,8 @@
 ============================================
 """
 
+
+# ==========================================
+#  CHALLENGE 1: The Student Grade Manager 📊
+#  Topics: Lists, List Methods, Slicing, Conditionals
+# ==========================================
