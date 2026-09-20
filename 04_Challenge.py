@@ -155,3 +155,8 @@ print("--------------------------------")
 playlist.append("Let It Be")
 print('After adding "Let It Be":', playlist)
 
+# 3. Insert "Hey Jude" at position 2
+# Position 2 means index 1.
+playlist.insert(1, "Hey Jude")
+print('After inserting "Hey Jude":', playlist)
+
