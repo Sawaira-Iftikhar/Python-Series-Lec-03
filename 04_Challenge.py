@@ -160,3 +160,9 @@ print('After adding "Let It Be":', playlist)
 playlist.insert(1, "Hey Jude")
 print('After inserting "Hey Jude":', playlist)
 
+# 4. Remove "Yesterday"
+playlist.remove("Yesterday")
+print('After removing "Yesterday":', playlist)
+
+
+print("--------------------------------")
