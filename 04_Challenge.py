@@ -84,3 +84,13 @@ scores.insert(0, 100)
 
 # 8. Print the final cleaned and sorted list
 print("After adding 100:", scores)
+
+# 9. Check class performance
+if average >= 80:
+    print("🏆 Excellent class performance!")
+elif average >= 60:
+    print("👍 Good class performance!")
+else:
+    print("📚 Class needs improvement!")
+
+print("================================")
