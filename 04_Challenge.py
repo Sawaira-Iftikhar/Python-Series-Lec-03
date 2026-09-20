@@ -101,3 +101,28 @@ print("================================")
 #  CHALLENGE 2: The Playlist Manager 
 #  Topics: Lists, Tuples, Methods, Slicing, Conversion
 # ==========================================
+
+"""
+You are building a music playlist system.
+
+Given:
+  playlist = ["Bohemian Rhapsody", "Stairway to Heaven",
+              "Hotel California", "Imagine", "Yesterday"]
+  favorites = ("Bohemian Rhapsody", "Imagine")  # Tuple — can't change!
+
+Write a program that:
+1. Prints the current playlist with numbering
+   (Use indexing to print: "1. Bohemian Rhapsody", etc.)
+2. Adds "Let It Be" to the END of the playlist
+3. Inserts "Hey Jude" at position 2
+4. Removes "Yesterday" from the playlist
+5. Checks which songs in the playlist are also in favorites
+   (Use 'in' operator — check each song manually since no loops yet)
+   Print: " 'Bohemian Rhapsody' is a favorite!"
+6. Creates a REVERSED copy of the playlist using slicing
+7. Converts the favorites tuple to a list, adds "Hey Jude" to it,
+   then converts it back to a tuple
+8. Prints the final playlist and updated favorites
+
+"""
+
